@@ -8,8 +8,8 @@ Hardware :
 
 Software :
 1.Arduino IDE: for programming the Arduino
-2. Libraries : for RFID and other sensors
-3. Code: for controlling the hardware components and managing the toll booth operation
+2.Libraries : for RFID and other sensors
+3.Code: for controlling the hardware components and managing the toll booth operation
  
 Tools :
 1. Soldering iron and solder : for connecting components
