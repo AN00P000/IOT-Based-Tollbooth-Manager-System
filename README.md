@@ -1,1 +1,1 @@
-# IOT-Based-Tollbooth-Manager-System
+<img width="990" height="1306" alt="Image" src="https://github.com/user-attachments/assets/8d21beaa-5c0f-4cb7-9b5f-58be142f34b4" />
